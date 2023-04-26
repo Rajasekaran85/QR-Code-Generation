@@ -24,7 +24,7 @@ QR Code Generation
 * Copy "qrvalue.ini" in the tool path and edit the qr value as you want.
 * Run the program
 * The "qrcode.svg" and "qrcode.png" file will created in the same tool path
-<p><img src="https://github.com/Rajasekaran85/JPEG-to-TIFF-Conversion/blob/main/img.jpg"/></p>
+<p><img src="https://github.com/Rajasekaran85/QR-Code-Generation/blob/main/qrcode.png"/></p>
 
 
 ## Version History
